@@ -1,0 +1,13 @@
+numpy==1.26.4
+torch==2.7.1
+torchvision==0.22.1
+wandb
+matplotlib
+timm
+scikit-image
+ray[tune]
+scikit-learn
+wilds
+ivon-opt
+laplace-torch==0.2.2.2
+curvlinops-for-pytorch==2.0.1

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+test/logs/
+
+# Checkpoints / models
+*.pt
+*.pth
+
+# Environment
+.mlenv/
+env/
+.venv/
+
+# OS
+.DS_Store
+
+# SLURM outputs
+*.out
+
+# sh files
+*.sh
+
+z-Data
+z-ray_results
+
+checkpoints
+configs
+z-logs
+y-prediction
+evaluation/*.csv
+previous_results_tbd
+ray_results
+evaluation/
+logs
+datasets
+wandb
+evaluation/eval_res/*
+evaluation
+slurm-scripts
+evaluation
